@@ -16,6 +16,9 @@
         ":type": "line"
       },"description": {
         ":type": "text"
+      },
+      "logo": {
+        ":type": "image"
       }
     }
   }
