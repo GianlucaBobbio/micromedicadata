@@ -22,6 +22,8 @@
   },"partners": {
     ":items": {
       "name": {
+        ":type": "line"
+      },"description": {
         ":type": "text"
       }
     }
