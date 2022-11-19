@@ -19,5 +19,11 @@
         ":type": "line"
       }
     }
+  },"partners": {
+    ":items": {
+      "name": {
+        ":type": "string"
+      }
+    }
   }
 }
