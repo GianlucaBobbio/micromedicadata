@@ -5,21 +5,18 @@
     ":description": "This example text is used as a description.",
     ":type": "line"
   },
-  "custom-object": {
-    "custom-line": {
-      ":type": "line"
+  "landing-text": {
+    "first-paragraph": {
+      ":type": "text"
     },
-    "custom-text": {
+    "second-paragraph": {
+      ":type": "text"
+    },
+    "third-paragraph": {
       ":type": "text"
     }
   },
-  "custom-list": {
-    ":items": {
-      "custom-list-item": {
-        ":type": "line"
-      }
-    }
-  },"partners": {
+  "partners": {
     ":items": {
       "name": {
         ":type": "line"
