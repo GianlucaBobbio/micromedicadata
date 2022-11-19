@@ -22,7 +22,7 @@
   },"partners": {
     ":items": {
       "name": {
-        ":type": "string"
+        ":type": "text"
       }
     }
   }
