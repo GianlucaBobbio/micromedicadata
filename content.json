@@ -7,7 +7,14 @@
   "partners": [
     {
       "name": "Shin Nippon",
-      "description": "Shin Nippon es la marca internacional de los productos fabricados en Japón por la empresa RyuSyo Industrial Co. durante más de 50 años y en la actualidad, desde 2010, por la empresa Rexxam.<br/>\nDesde sus comienzos la empresa se ha dedicado a la fabricación de equipamiento médico oftalmológico de diagnóstico y equipamiento óptico.<br/>\nEs una empresa reconocida en el mercado por su extensa trayectoria y la calidad inconfundible de sus productos."
+      "description": "Shin Nippon es la marca internacional de los productos fabricados en Japón por la empresa RyuSyo Industrial Co. durante más de 50 años y en la actualidad, desde 2010, por la empresa Rexxam.<br/>\nDesde sus comienzos la empresa se ha dedicado a la fabricación de equipamiento médico oftalmológico de diagnóstico y equipamiento óptico.<br/>\nEs una empresa reconocida en el mercado por su extensa trayectoria y la calidad inconfundible de sus productos.",
+      "logo": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "219aead2-ffff-4f78-a169-d303eba1023b",
+        "height": 30,
+        "width": 163
+      }
     }
   ]
 }
